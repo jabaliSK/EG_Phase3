@@ -1,0 +1,10 @@
+{
+    "db_params": {
+        "dbname": "eg_valorant",
+        "user": "udaya",
+        "password": "&ETa$Tdj9z7msLo#",
+        "host": "216.151.12.162",
+        "port": "4928"
+    },
+    "table_name": "grid_valorant_hpe.lstm_egr"
+}
