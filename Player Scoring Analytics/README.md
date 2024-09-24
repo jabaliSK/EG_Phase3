@@ -19,7 +19,7 @@ This project implements a pipeline for analyzing player performance in Valorant 
    Open the Jupyter notebook and follow the steps to train the model using the preprocessed data. Adjust hyperparameters and experiment with different architectures as needed.
 
 3.  Inference Step: `inference.py`   
-   - Outputs predictions (Effective Game Rating - EGR) with corresponding metadata, including agent role columns.  
+   - Outputs predictions (EG Rating - EGR) with corresponding metadata, including agent role columns.  
    - This script requires the data prepared using the data preparation script.
 
     Steps to run :  
