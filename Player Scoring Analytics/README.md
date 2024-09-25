@@ -73,4 +73,3 @@ This project implements a pipeline for analyzing player performance in Valorant 
 
 ## Notes:
 - Make sure to configure `config.json` with your database credentials and necessary settings before running any scripts.
-- Ensure that the necessary libraries are installed using `requirements.txt`.
