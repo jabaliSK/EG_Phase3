@@ -53,7 +53,7 @@ with st.sidebar:
     elif data_source == "SQL Database":
         try:
             #hardcoded_file = "./res.csv"
-            df =df =fetch_data_from_table()
+            df =fetch_data_from_table()
             st.success("Data fetched from SQL database successfully!")
         except Exception as e:
             st.error(f"Error fetching data from SQL: {e}")
